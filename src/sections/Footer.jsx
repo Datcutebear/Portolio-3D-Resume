@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <section className='c-space pt-7 pb-3 border-t border-black flex justify-between items-center flex-wrap gap-5' id='footer'>
+    <section className='c-space lg:pt-56 md:pt-7 sm:pt-7 pb-3 border-t border-black flex justify-between items-center flex-wrap gap-5' id='footer'>
         <div className='text-white flex gap-2'>
             <p> Terms & Conditions </p>
             <p>|</p>

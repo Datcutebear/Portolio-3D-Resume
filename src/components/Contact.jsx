@@ -42,7 +42,7 @@ const Contact = () => {
   return (
     <section className='c-space my-20' id='contact'>
       <div className='relative min-h-screen flex flex-col justify-center items-center'>
-        <img src='/assets/terminal.png' alt='terminal' className='absolute inset-0 min-h-screen w-full' />
+        <img src="/assets/terminal.png" alt="terminal-bg" className="absolute inset-0 min-h-screen" />
         <div className='contact-container'>
           <h3 className='head-text'>Let's talk</h3>
           <p className='text-lg text-white mt-3'>
