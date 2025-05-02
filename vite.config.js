@@ -8,6 +8,6 @@ export default defineConfig({
   [react(),
    tailwindcss(),
   ],
-  base: "/Portolio-3D-Resume"
+  // base: "/Portolio-3D-Resume"
   
 })
